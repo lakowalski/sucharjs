@@ -3,7 +3,7 @@ Javascript module that returns a random suchar. This is a a simple web crawler u
 
 ### Installation
 ```
-npm install https://github.com/lakowalski/suchar
+npm install https://github.com/lakowalski/sucharjs
 ```
 
 ### Simple usage
