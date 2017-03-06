@@ -10,5 +10,5 @@ npm install https://github.com/lakowalski/suchar
 Function returns a `Promise` object. Fulfilled promise will contain a random suchar.
 ```javascript
 var suchar = require("sucharjs");
-suchar().then(console.log).catch(console.log).done();
+suchar().then(console.log).catch(console.error).done();
 ```
