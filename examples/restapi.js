@@ -21,4 +21,4 @@ var server = app.listen(port, function () {
   var host = server.address().address
   var port = server.address().port
   console.log("Rest api available on http://%s:%s", host, port)
-*})
+})
